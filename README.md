@@ -15,7 +15,6 @@ Damndelion dirancang sebagai alternatif web baca manga dengan pengalaman yang le
 - Dark mode dan light mode
 - Pencarian judul dengan cepat
 - Halaman detail komik
-- Reader dengan infinite scroll (auto load chapter berikutnya)
 - Navigasi chapter (previous, next, dan list)
 - Halaman populer, terbaru, dan trending
 - Skeleton loading untuk pengalaman yang lebih halus
